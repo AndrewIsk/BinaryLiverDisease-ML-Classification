@@ -2,7 +2,7 @@
 
 This repository contains machine learning models for the binary classification of liver disease using various datasets and preprocessing techniques. The goal is to compare the performance of different classifiers — including Random Forest (RF), XGBoost (XGB), Gradient Boosting (GB), and Support Vector Machines (SVM) — across unedited, normalized, SMOTE-augmented, and normalized SMOTE datasets.
 
-This project is a attempted replicate at the published article by Ganie et al.:
+This project is attempting to replicate a published article by Ganie et al.:
 
 Ganie, S.M., Dutta Pramanik, P.K. & Zhao, Z. Improved liver disease prediction from clinical data through an evaluation of ensemble learning approaches. BMC Med Inform Decis Mak 24, 160 (2024). https://doi.org/10.1186/s12911-024-02550-y
 
